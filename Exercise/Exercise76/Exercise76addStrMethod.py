@@ -1,4 +1,4 @@
-# Exercise 76
+# Exercise 76 Adding an __str__ Method to the Country Class
 # ------------------------------------------------------------------------------
 
 
