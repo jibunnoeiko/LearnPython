@@ -1,8 +1,9 @@
-x1 = int(input())
-y1 = int(input())
-x2 = int(input())
-y2 = int(input())
-if (x1 == x2 or y1 == y2) or ((x1 + y2 == x2 + y1) or (x1 - y2 == x2 - y1)):
-    print('YES')
-else:
-    print('NO')
+n = int(input())
+total = 0
+for i in range (n+1):
+    if i % 2 != 0:
+        total += i
+    else:
+        total -= i
+        
+print(total)

@@ -1,3 +1,4 @@
 /.idea
 /.vscode
 /pytest_cache
+Test/Chapter_test/test_stepik.py
